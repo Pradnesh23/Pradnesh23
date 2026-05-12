@@ -38,7 +38,7 @@
 
 ---
 
-### 📊 [InsightFlowAI](https://github.com/Pradnesh23) — Multi-Agent Analytics Hub
+### 📊 [InsightFlowAI](https://github.com/Pradnesh23/Insightflow-AI-Hub.git) — Multi-Agent Analytics Hub
 > LangGraph + Gemini 2.5 Flash with conditional routing, contextual memory, and smart visualization engine for 15+ chart types
 
 `LangGraph` `Gemini 2.5 Flash` `Next.js` `FastAPI` `Supabase` `Recharts` `Tailwind v4`
